@@ -1,0 +1,18 @@
+
+#board {
+    width: 400px;
+    margin: auto;
+}
+
+table {
+    background: rgb(231, 227, 227);
+    padding: 10px;
+    
+}
+
+th {
+    background: grey;
+    color: #fff;
+    width: 2cm;
+    height: 2cm;
+}
